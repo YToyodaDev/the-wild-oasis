@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "jsx": "react"
+    // "baseUrl": "./src"
+  },
+  "include": [
+    "src/**/*",
+    "src/data/data-bookings.js",
+    "src/data/data-cabins.js",
+    "src/data/data-guests.js"
+  ]
+}
